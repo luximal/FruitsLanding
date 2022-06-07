@@ -4,5 +4,7 @@
 
 
 Using WebP images if browser is support.
-[Figma](https://www.figma.com/file/czBgn1MBalMpT6JxNk5Wye/Fruit-Design)
+Original JS slider with css animation.
+
+[Figma layout](https://www.figma.com/file/czBgn1MBalMpT6JxNk5Wye/Fruit-Design)
 
